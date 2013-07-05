@@ -1,1 +1,1 @@
-http://github.com/arussel/standfordstartup/blob/349d5afea1d5186c482ec91d48e96383c11eaff9/index.html
+http://github.com/arussel/bitstarter/blob/349d5afea1d5186c482ec91d48e96383c11eaff9/index.html
